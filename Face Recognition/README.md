@@ -18,15 +18,15 @@ Each folder and image is named with a number, i.e 0.jpg, 1.jpg
 
 
 # Plotting the data
-![image](https://github.com/user-attachments/assets/2d86689e-559c-4d68-89c2-215be55e4425)
+![image](https://github.com/user-attachments/assets/0135d553-7fc0-4846-9345-173ec9ecfd52)
 
 # Siamese Network
 ![image](https://github.com/user-attachments/assets/b6abdc6c-78b7-457a-ad8f-e6c320ac3cfb)
 
 # Test Matrics
-![image](https://github.com/user-attachments/assets/32837258-f2a8-42ab-ab2d-dba5f415d476)
+![image](https://github.com/user-attachments/assets/5de5c85e-85e1-4d49-bcee-e90e9b4b142a)
 
-![image](https://github.com/user-attachments/assets/cba19287-d521-4deb-b9aa-0ca360b55d45)
+![image](https://github.com/user-attachments/assets/392e7ea0-867f-4d0a-b90e-516c3834027e)
 
 # Android app
 ![UI1](https://github.com/user-attachments/assets/e709d8f2-bfb2-4fad-a041-b44a4dea8089)
